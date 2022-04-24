@@ -1,8 +1,0 @@
-Cześć, przeglądasz dyski w systemie. Obsługujemy trzy rodzaje dysków:
-1. 'Dysk-wewnętrzny' jest to folder w pamięci urządzenia umieszczony w lokalizacji dostępnej dla wszystkich aplikacji, ta lokalizacja to /sdcard/dom 
-folder ten jest dostępny w twojej lokalnej sieci (protokół ftp) pod adresem ftp://ais-dom.local/sdcard/dom
-możesz tu dodać muzykę lub pliki tekstowe a następnie je odtwarzać w aplikacji.
-2. 'Dyski-wymienne' są to dołączone do urządzenia karty SD lub pamięci USB 
-3. 'Dyski-zdalne' są to dyski/usługi przechowywania danych w churach. Połączenie z dyskami zdalnymi definiowane jest w ustawieniach aplikacji. 
-Pozdrowienia, Twój Asystent domowy!
-PS Obecnie odtwarzamy pliki tekstowe i pliki audio. Koniec wiadomości.
