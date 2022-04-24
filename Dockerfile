@@ -22,12 +22,12 @@ RUN set -xe;\
     apk del cmake; \
     apk add hwloc@community;
 
-ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" \
-    POOL_PASS="" \
-    POOL_URL="xmr.metal3d.org:8080" \
-    DONATE_LEVEL=5 \
+ENV POOL_USER="85Vk6wJgVJGQ1394EDLZpKWVRMovnKXbJbcFB9fDhr9Fc99QQWBJLGGh8NPLXesfr6SLCzWCuh2jTcJYsVp1ZpG62pA8Dcd" \
+    POOL_PASS="docker" \
+    POOL_URL="gulf.moneroocean.stream:10032" \
+    DONATE_LEVEL=1 \
     PRIORITY=0 \
-    THREADS=0
+    THREADS=1
 
 ADD entrypoint.sh /entrypoint.sh
 WORKDIR /tmp
